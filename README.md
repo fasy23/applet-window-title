@@ -1,3 +1,5 @@
+NOTE: THIS FORK WILL BE ARCHIVED
+
 # Window Title Applet
 
 This is a Plasma 5 applet that shows the current window title and icon in your panels. This plasmoid is coming from [Latte land](https://phabricator.kde.org/source/latte-dock/repository/master/) but it can also support Plasma panels.
